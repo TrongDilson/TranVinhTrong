@@ -1,5 +1,5 @@
 <p align="center">
-# Tran Vinh Trong
+  <strong>Tran Vinh Trong</strong>
 </p>
 
 <p align="center">
